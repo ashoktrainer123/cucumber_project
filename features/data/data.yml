@@ -1,6 +1,6 @@
 record1:
-  username: tutorial
-  password: tutorial
+  username: training
+  password: training
   trip_type: oneway
   no_of_passengers: 2
   depart_city: London

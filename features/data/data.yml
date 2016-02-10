@@ -1,0 +1,30 @@
+record1:
+  username: tutorial
+  password: tutorial
+  trip_type: oneway
+  no_of_passengers: 2
+  depart_city: London
+  depart_month: November
+  depart_day: 22
+  arrival_city: New York
+  return_month: December
+  return_day: 15
+  service_class: Business
+record2:
+  username: test
+  password: test
+  trip_type: roundtrip
+  no_of_passengers: 1
+  depart_city: New York
+  depart_month: November
+  depart_day: 28
+  arrival_city: Seattle
+  return_month: December
+  return_day: 10
+  service_class: Coach
+record3:
+  username: training
+  password: traininig
+
+
+
